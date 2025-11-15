@@ -37,7 +37,6 @@ This project aims to analyze ride data from Uber trips including time patterns, 
 
 
 ## 📌 Dashboards and Visualizations
-<a href ="https://github.com/nareshjodha12/Uber_Ride_analysis_Excel-Report/blob/main/Screenshot%20-Uber-Analysis-dashboard.png"/>
  ![Screenshot.png](https://github.com/nareshjodha12/Uber_Ride_analysis_Excel-Report/blob/main/Screenshot%20-Uber-Analysis-dashboard.png)
 
 ### ✅ Dashboard Tabs
